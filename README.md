@@ -1,2 +1,2 @@
 # clinical-lab
-Clinical lap is a multilangual wordpress template for medical purposes.
+Clinical lap is a multilingual wordpress template for medical purposes.
